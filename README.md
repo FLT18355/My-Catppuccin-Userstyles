@@ -54,3 +54,7 @@ This theme is based on the official Catppuccin color palette and works on any we
 ---
 
 📖 **Catppuccin Official**: [https://github.com/catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+![Mocha 主题](assets/1.png)
+![Mocha 主题](assets/2.png)
+![Mocha 主题](assets/3.png)
